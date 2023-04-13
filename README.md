@@ -4,11 +4,14 @@ The software system EKrut is a sophisticated and streamlined solution that enabl
 
 Here are some examples from the system :
 
-login screen: login
+login screen: 
+![login screen](https://user-images.githubusercontent.com/109150591/231799943-3ae18c4c-cd34-4296-abdf-a48421d81cea.gif)
 
-the add to cart proccess: cart
+the add to cart proccess: 
+![Cart screen](https://user-images.githubusercontent.com/109150591/231800008-8dbc7050-9cf9-46ce-9670-37be146dfb3c.gif)
 
-complete order: order
+complete order:
+![MyOrder](https://user-images.githubusercontent.com/109150591/231800023-5f6eb3b1-7d1b-4590-b26b-19cb73d8d936.gif)
 
 
 # More details on the implementation and execution of the project :
