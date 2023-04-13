@@ -11,7 +11,7 @@ the add to cart proccess: cart
 complete order: order
 
 
-More details on the implementation and execution of the project :
+# More details on the implementation and execution of the project :
 During my time in the software systems development methods course, I had the opportunity to work on a project with a team of five people that helped us gain experience in the world of server-side and client-side technologies. Our project was developed using Java, which is a reliable and scalable programming language that is widely used in software development.
 
 To create a visually appealing and user-friendly interface, we utilized JavaFX and SceneBuilder. These tools allowed us to design the GUI efficiently and effectively. Meanwhile, on the server-side of the application, we utilized the OCSF (Object-oriented Client-Server Framework) method to communicate between the client and server. Additionally, we connected the server to a MySQL database, which allowed us to store and retrieve data from the server.
