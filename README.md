@@ -13,6 +13,9 @@ the add to cart proccess:
 complete order:
 ![MyOrder](https://user-images.githubusercontent.com/109150591/231800023-5f6eb3b1-7d1b-4590-b26b-19cb73d8d936.gif)
 
+ customer report:
+![customer report](https://user-images.githubusercontent.com/109150591/235725505-588f73d3-cd38-466d-97d4-62bd8928ad3f.png)
+
 
 # More details on the implementation and execution of the project :
 During my time in the software systems development methods course, I had the opportunity to work on a project with a team of five people that helped us gain experience in the world of server-side and client-side technologies. Our project was developed using Java, which is a reliable and scalable programming language that is widely used in software development.
